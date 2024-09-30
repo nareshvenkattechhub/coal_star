@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/coal_star/static/css/main.1fe4de65.css",
+    "main.js": "/coal_star/static/js/main.d4eaeb78.js",
+    "static/js/952.1e3b3f7c.chunk.js": "/coal_star/static/js/952.1e3b3f7c.chunk.js",
+    "static/js/453.76b40a7a.chunk.js": "/coal_star/static/js/453.76b40a7a.chunk.js",
+    "static/media/chilli.jpeg": "/coal_star/static/media/chilli.0f0be46a8cfb5ba6aa14.jpeg",
+    "static/media/paddy.jpeg": "/coal_star/static/media/paddy.a60a26d241ff9e4bdb63.jpeg",
+    "static/media/ll.jpeg": "/coal_star/static/media/ll.14433cdedbb308981fb0.jpeg",
+    "static/media/logo.svg": "/coal_star/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/coal_star/index.html",
+    "main.1fe4de65.css.map": "/coal_star/static/css/main.1fe4de65.css.map",
+    "main.d4eaeb78.js.map": "/coal_star/static/js/main.d4eaeb78.js.map",
+    "952.1e3b3f7c.chunk.js.map": "/coal_star/static/js/952.1e3b3f7c.chunk.js.map",
+    "453.76b40a7a.chunk.js.map": "/coal_star/static/js/453.76b40a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fe4de65.css",
+    "static/js/main.d4eaeb78.js"
+  ]
+}
